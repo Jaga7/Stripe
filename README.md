@@ -1,5 +1,7 @@
 # Stripe clone
 
+https://stripe-aj.netlify.app/
+
 A React project. Clone of the Stripe website's landing page
 
 ![image](https://user-images.githubusercontent.com/75665204/164297401-7546f677-b396-46c7-b752-c393dee5a9a7.png)
