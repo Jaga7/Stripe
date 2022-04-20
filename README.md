@@ -1,3 +1,10 @@
+# Stripe clone
+
+A React project. Clone of the Stripe website's landing page
+
+![image](https://user-images.githubusercontent.com/75665204/164297401-7546f677-b396-46c7-b752-c393dee5a9a7.png)
+![image](https://user-images.githubusercontent.com/75665204/164297635-3f4b9818-06ef-441e-83e0-09744b98c1d5.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
